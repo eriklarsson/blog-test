@@ -16,7 +16,7 @@ Working with the `blog` collection:
       └── 📄 index.mdx
 ```
 
-In the above example, two static pages will be generated, based on the existence of a classic markdown `.md` file or a jsx compatible markdown `.mdx` file. The folder name represents the slug:
+HELLO WORLD! In the above example, two static pages will be generated, based on the existence of a classic markdown `.md` file or a jsx compatible markdown `.mdx` file. The folder name represents the slug:
 
 - `https://example.com/blog/post-1`
 - `https://example.com/blog/post-2`
